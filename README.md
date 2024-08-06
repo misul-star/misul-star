@@ -1,16 +1,16 @@
-## Hi there 👋
+## bem vindo ao meu perfil 💙
 
-<!--
-**misul-star/misul-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e maiza dos santos de oliveira
 
-Here are some ideas to get you started:
+ - estou estudando na alura
+ - estou me desenvolvendo na linguagem javascript
+ - utilizo esse espaço para minha organização e compartilhamento doa meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## vocẽ entar em contato comigo 📫
+
+o.maiza@escola.pr.gov.br
+
+ @misul.mah
+
+ ![](https://media1.tenor.com/m/Qwo8f7J0vMYAAAAC/victor-loud-victor-augusto.gif)
+ 
